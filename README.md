@@ -7,6 +7,6 @@ Perform descriptive analytics to create a customer profile for each AeroFit trea
 
 Product Portfolio:
 
-The KP281 is an entry-level treadmill that sells for $1,500;
-The KP481 is for mid-level runners and sells for $1,750;
-The KP781 treadmill is having advanced features and it sells for $2,500.
+- The KP281 is an entry-level treadmill that sells for $1,500;
+- The KP481 is for mid-level runners and sells for $1,750;
+- The KP781 treadmill is having advanced features and it sells for $2,500.
